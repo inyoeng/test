@@ -4,4 +4,15 @@
   <artifactId>youngg</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  
+  <properties>
+  	<project>인영이가 했다!</project>
+  </properties>
+  
+  <build>
+  	 dndndnd
+  </build>
+  
+  
+  
 </project>
